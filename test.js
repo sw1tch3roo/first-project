@@ -1,3 +1,5 @@
+console.log('сайт работает!');
+
 // получение бургер-элемента из html
 const nav_toggle = document.querySelector('.nav-toggle');
 
